@@ -1,0 +1,6 @@
+bin/
+*.class
+*.zip
+.idea/
+.vscode/
+out/
